@@ -1,2 +1,2 @@
-# cypress-chrome-firefox
+# docker.cypress-chrome-firefox
 Custom Cypress Docker image with browsers
